@@ -1,0 +1,17 @@
+.navbar{
+    
+    font-size: 25px;
+    background-color: rgb(10, 43, 139);
+    list-style-type: none;
+    display: flex;
+    
+}
+
+.navbar li{
+    position: relative;
+
+    display: flex;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
